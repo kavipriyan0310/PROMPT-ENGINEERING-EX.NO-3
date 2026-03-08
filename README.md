@@ -45,7 +45,7 @@ Procedure:
 
 # OUTPUT:
 
-
+https://github.com/kavipriyan0310/PROMPT-ENGINEERING-EX.NO-3/blob/main/212225060119%20document%20(6).pdf
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
 
