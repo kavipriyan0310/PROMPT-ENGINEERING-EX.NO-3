@@ -43,7 +43,8 @@ Procedure:
    •	"In photosynthesis, plants absorb sunlight to produce ____."
 
 
-# OUTPUT: 
+# OUTPUT:
+
 
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
